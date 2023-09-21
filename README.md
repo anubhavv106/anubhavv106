@@ -1,10 +1,8 @@
 <img src="./github-header-image (8).png" width="100%" />
-<h1 align="center">Hi 👋, I'm Anubhav Verma</h1>
-<h3 align="center">A passionate Full-Stack Developer & Cyber Security Enthusiast </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavv106&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavv106" /> </p>
 
 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ABDELLATIFLAGHJAJ;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 - 🔭 I’m currently working on [Web Based ChatBox](https://github.com/anubhavv106/web-based-chat-box.git)
 
 - 📫 How to reach me **avdzav10@gmail.com**
