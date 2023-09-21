@@ -1,4 +1,4 @@
-<img src="./github-header-image (8).png" width="100%" />
+![git banner](https://github.com/anubhavv106/anubhavv106/assets/112748712/87daea7a-3e40-4467-905f-e7200a5872ad)
 
 
 
