@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Anubhav;I'm+from+Mumbai;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Anubhav+Verma;I'm+from+Mumbai;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 - 🔭 I’m currently working on [Web Based ChatBox](https://github.com/anubhavv106/web-based-chat-box.git)
 
 - 📫 How to reach me **avdzav10@gmail.com**
