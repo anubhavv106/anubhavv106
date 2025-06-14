@@ -1,88 +1,90 @@
-<h1 align="center" style="color:#39FF14; font-weight:bold;">𝙖𝙣𝙪𝙗𝙝𝙖𝙫𝙫106</h1>
+<h1 style="color:green;" align="center">𝙖𝙣𝙪𝙗𝙝𝙖𝙫𝙫106</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter+%F0%9F%94%AA;Cybersecurity+Researcher+%F0%9F%94%AB;CTF+Player+%F0%9F%A7%AE;OSINT+%2F+Recon+Specialist+%F0%9F%93%8D;TryHackMe+Top+1%25+%F0%9F%92%BB;Kali+%2F+Parrot+%2F+BlackArch+User+%F0%9F%A4%AB" alt="Typing SVG" />
-</p>
+<center><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif"> </center> 
 
-<p align="center">
-  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="450"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Anubhav%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg) 
 
----
-
-## 🕵️‍♂️ Connect With Me:
-
+<label>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://tryhackme.com/anubhav106" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://x.com/avdzav10" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anubhav-verma-7123a1232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/anubhavv106" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://tryhackme.com/anubhav106" target="blank"> 
+    <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme" height="30" width="100" /> 
+</a>
+<a href="https://x.com/avdzav10" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/anubhav-verma-7123a1232/" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/anubhavv106" target="blank">
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+</label>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anubhavv106&color=lightgrey" alt="watching_count" />
 </p>
 
 ---
 
-## 🧰 Tools of the Trade
+<h2>Support at  
+<a href="https://buymeacoffee.com/anubhavv106">https://buymeacoffee.com/anubhavv106</a>
+</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-</p>
+<h2 id="knowledge_skills" align=''>Skills and tools:</h2>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-5C5CFF?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Parrot_OS-0bda51?style=for-the-badge&logo=parrot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anubhavv106&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhavv106&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavv106&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavv106&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavv106&theme=tokyonight&area=true&hide_border=true"/>
-</p>
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" />
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" />
+  </div>
+</div>
 
 ---
 
-## 🧠 Quote for Hackers
-> <i>"The quieter you become, the more you are able to hear."</i> – Kali Linux
+<br><hr/><br/>
 
----
+<p align="center">
+  <a href="https://github.com/anubhavv106">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavv106&theme=radical&border=7F3FBF&background=0D1117" alt="Anubhav's GitHub streak"/>
+  </a>
+</p>
 
-## 🔗 Explore My Work
+<p align="center">
+  <a href="https://github.com/anubhavv106">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhavv106&theme=radical" alt="Anubhav's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/anubhavv106"><img alt="Anubhav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anubhavv106&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/anubhavv106"><img alt="Anubhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anubhavv106&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</a>
+
+![Anubhav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavv106&custom_title=Anubhav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anubhavv106&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <p align="left">
   <a href="https://github.com/anubhavv106?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Explore%20Repos-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
 </p>
