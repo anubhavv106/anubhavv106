@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tryhackme.com/anubhav106" target="blank"> 
-    <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme" height="30" width="100" /> 
+    <img align="center" src="https://files.svgcdn.io/simple-icons/tryhackme.svg" alt="tryhackme" height="30" width="40" /> 
 </a>
 <a href="https://x.com/avdzav10" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
@@ -28,9 +28,7 @@
 
 ---
 
-<h2>Support at  
-<a href="https://buymeacoffee.com/anubhavv106">https://buymeacoffee.com/anubhavv106</a>
-</h2>
+
 
 <h2 id="knowledge_skills" align=''>Skills and tools:</h2>
 <br>
