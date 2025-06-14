@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="450"/>
+  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="250"/>
 </p>
 
 ---
