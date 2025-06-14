@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tryhackme.com/anubhav106" target="blank"> 
-    <img align="center" src="https://files.svgcdn.io/simple-icons/tryhackme.svg" alt="tryhackme" height="30" width="40" /> 
+    <img align="center" src="https://friconix.com/svg/fi-snsuxl-tryhackme.svg" alt="tryhackme" height="30" width="40" /> 
 </a>
 <a href="https://x.com/avdzav10" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="twitter" height="30" width="40" />
